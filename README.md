@@ -9,13 +9,17 @@ I like building secure, well-structured REST APIs, and I care about clean code, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java EE Servlets](https://img.shields.io/badge/Java_EE_Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Also: JPA/Hibernate, Java EE (Servlets, JSP, JDBC), REST API design, DTO pattern, pagination, centralized exception handling.
+Also: Spring Data JPA, Spring MVC, JPA/Hibernate, Java EE (Servlets, JSP, JDBC), REST API design, DTO pattern, pagination, centralized exception handling.
 
 ## 🚀 Featured Projects
 
@@ -39,12 +43,12 @@ My graduation project: an AI-powered e-commerce platform built with Spring Boot,
 
 I've taught foundational programming to kids at iSchool, which taught me to explain technical ideas simply.
 
-Outside of coding: football (Inter Milan and Crystal Palace), the gym, anime and manga, and the occasional League of Legends match.
+Outside of coding: football (AC Milan ), the gym, anime and manga, and the occasional League of Legends match.
 
 ## 📫 Let's Connect
 
 - 💼 LinkedIn:(https://www.linkedin.com/in/mustafa-gomaa-mahmoud )
-- 📧 Email: mostafa.dev.jav@gmail.com
+- 📧 Email: (mostafa.dev.jav@gmail.com)
 
 ---
 
