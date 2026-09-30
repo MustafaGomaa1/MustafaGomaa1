@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa 👋
 
-Junior backend developer specializing in **Java** and **Spring Boot**, based in Cairo, Egypt. I graduated with a Computer Science degree from Al-Assema University (formerly Helwan University) and I'm currently pursuing a Java Enterprice program at NTI.
+Junior backend developer specializing in **Java** and **Spring Boot**, based in Cairo, Egypt. I graduated with a Computer Science degree from Capital University (formerly Helwan University) and I'm currently pursuing a Java Enterprice program at NTI.
 
 I like building secure, well-structured REST APIs, and I care about clean code, proper error handling, and getting the fundamentals right.
 
